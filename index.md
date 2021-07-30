@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "I'm not really here"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This is a place for tumbleweeds to collect.
